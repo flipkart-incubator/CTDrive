@@ -35,13 +35,31 @@ By default it will open in `http://localhost:5173`
 ## Contributors:
 
 <table>
-  <tbody>
+  <tbody display="flex" flex-direction="row">
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://gkanishk.github.io/"><img src="https://avatars.githubusercontent.com/u/33570551?v=4" width="100px;" alt="Kanishk Gupta"/><br /><sub><b>Kanishk Gupta</b></sub></a><br /> <a href="https://x.com/gkanishk_" title="Twitter">Twitter</a> 
-      <a href="https://www.linkedin.com/in/gkanishk" title="Twitter">LinkedIn</a>  
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ksravya-05"><img src="https://avatars.githubusercontent.com/u/60231388?v=4" width="100px;" alt="Kanishk Gupta"/><br /><sub><b>K.Sri Sai Sravya</b></sub></a><br /> 
+      <th align="center" valign="top" width="max-content">
+        <a href="https://gkanishk.github.io/">
+          <img src="https://avatars.githubusercontent.com/u/33570551?v=4" width="100px;" alt="Kanishk Gupta"/>
+          <br />
+            <sub><b>Kanishk Gupta</b></sub>
+        </a>
+        <br /> 
+        <sub>
+        <a href="https://x.com/gkanishk_" title="Twitter" font-size="8px">Twitter</a> |
+        <a href="https://www.linkedin.com/in/gkanishk" title="Twitter"  font-size="8px">LinkedIn
+        </a>  
+        </sub>
+      </th>
+      <th align="center" valign="top" width="max-content">
+        <a href="https://github.com/ksravya-05">
+          <img src="https://avatars.githubusercontent.com/u/60231388?v=4" width="100px;" alt="Kanishk Gupta"/><br />
+          <sub><b>K.Sri Sai Sravya</b></sub>
+          </a>
+          <br /> 
+        <sub>
+        <a href="https://www.linkedin.com/in/sai-sravya-1676a0196"  font-size="8px">LinkedIn</a>
+        </sub>
+      </th>
     </tr>
   </tbody>
 </table>
